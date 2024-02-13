@@ -1,1 +1,1 @@
-alert='Afiyet olsun!'
+alert('Afiyet olsun!')
